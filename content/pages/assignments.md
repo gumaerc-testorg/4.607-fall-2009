@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for two short papers and the in-class
+  debates.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
