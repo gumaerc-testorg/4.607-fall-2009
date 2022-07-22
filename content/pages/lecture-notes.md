@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and a selection
+  of lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a44e14df-f553-1ee6-f20c-f6e739cf0713
 ---
@@ -42,7 +47,7 @@ Course introduction
 Modernity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec02))
+({{% resource_link 91f600b7-c3bb-2f0b-4f04-3bc0669cc3c6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Modernity
 Metaphysics and anti-metaphysics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec03))
+({{% resource_link cf5727da-7378-f4e0-cffe-614cd16fab1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Debate 1
 Social contract
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec05))
+({{% resource_link b51b0a74-82e7-aa3e-42ca-e67877084c0a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Social contract
 Defining the architect
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec06))
+({{% resource_link e9b32963-79c3-2130-849b-6d25133cb7d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Defining the architect
 Avant-garde
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec07))
+({{% resource_link 542604da-aeea-0b5c-427d-aad89db61be9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Debate 2
 Psychology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec09))
+({{% resource_link 1558322b-4ac8-b31d-5f38-441c45c240b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ Psychology
 Husserl
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec10))
+({{% resource_link 52d5045b-ce03-bed0-f4bd-6f1f99f888c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Husserl
 Heidegger
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_607f09_lec11))
+({{% resource_link bff6ccde-8c27-9f7a-a83a-b07ef8ca0399 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

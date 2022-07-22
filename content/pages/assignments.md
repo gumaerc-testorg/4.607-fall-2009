@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains instructions for two short papers and the in-class
+  debates.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fff66de8-2688-6e8a-3833-9445062eeddf
 ---
