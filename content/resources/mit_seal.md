@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: MIT_Seal.png
-uid: 47df9205-8b80-4b70-bcbc-0e5adf30f579
+uid: 27357e78-bc29-409f-90a4-9d3f344f4ad2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
