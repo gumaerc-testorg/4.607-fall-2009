@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/mit_seal.png
+file: /ol-ocw-studio-app/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/mit_seal.png
 file_size: 353947
 file_type: image/png
 image_metadata:
