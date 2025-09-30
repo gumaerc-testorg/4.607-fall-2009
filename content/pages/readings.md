@@ -67,7 +67,7 @@ Metaphysics and anti-metaphysics
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700603) Tschumi, Bernard. "Architecture and Limits," "Violence of Architecture," and "Disjunctions." In [_Architecture and Disjunction_](https://mitpress.mit.edu/9780262700603). Cambridge, MA: MIT Press, 1996, pp. 101-140, 207-204. ISBN: 9780262700603.
+{{% resource_link "06b710e5-1b66-468c-aa5c-21a0c649d411" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tschumi, Bernard. "Architecture and Limits," "Violence of Architecture," and "Disjunctions." In {{% resource_link "06b710e5-1b66-468c-aa5c-21a0c649d411" "_Architecture and Disjunction_" %}}. Cambridge, MA: MIT Press, 1996, pp. 101-140, 207-204. ISBN: 9780262700603.
 
 Nietzsche, Friedrich. Sections 108, 109, 115-117, 124-126. In _The Gay Science_. Translated by Walter Kaufmann. New York, NY: Vintage, 1974. ISBN: 9780394719856.
 
@@ -99,7 +99,7 @@ Social contract
 {{< tdopen >}}
 
 
-Rousseau, Jean. [The Social Contract, or Principles of Political Right](http://www.constitution.org/jjr/socon.htm).
+Rousseau, Jean. {{% resource_link "1d6a8264-7ab1-42d5-9b9a-003f26a4e353" "The Social Contract, or Principles of Political Right" %}}.
 
 Latrobe, Benjamin. "Letter to Robert Mills." In _The Correspondence and Miscellaneous Papers of Benjamin Henry Latrobe, Volume 2, 1805-1810_. Edited by John Van Horne. New Haven, CT: Yale University Press, 1986, pp. 239-244.
 
